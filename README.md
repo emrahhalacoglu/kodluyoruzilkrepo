@@ -11,7 +11,7 @@ Linux için:
 ```markdown
 cd kodluyoruzilkrepo
 code .
-´´´
+```
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
