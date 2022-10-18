@@ -3,6 +3,8 @@
 
 Bu repo [kodluyoruz](www.kodluyoruz.org) Front-End egitiminde olusturdugumiz ilk repo, icerisinde bir adet README dosyasi bir adet de index.html barındırıyor.
 
+![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+
 ## Installation
 
 
