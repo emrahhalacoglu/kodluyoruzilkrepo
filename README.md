@@ -9,7 +9,7 @@ Bu repo [kodluyoruz](www.kodluyoruz.org) Front-End egitiminde olusturdugumiz ilk
 Oncelikle projeyi clonelayın (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```markdown
-[](https://github.com/emrahhalacoglu/kodluyoruzilkrepo.git)
+git clone https://github.com/emrahhalacoglu/kodluyoruzilkrepo.git
 ```
 
 ## Usage
